@@ -1,13 +1,60 @@
-# React + Vite
+# Agragami Consultancy Website
+live link: https://agragami-consultancy.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Agragami Consultancy** website — your trusted partner for global education guidance. We specialize in helping students with visa assistance, university admissions, and document support to make studying abroad a smooth and successful journey.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
 
-## Expanding the ESLint configuration
+- [About](#about)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# agragami-consultancy
+---
+
+## About
+
+Agragami Consultancy empowers students to unlock global educational opportunities. Our personalized consultancy approach guides students through:
+
+- Student visa assistance  
+- University admission processes  
+- Comprehensive document support  
+
+Join thousands of students who trust Agragami for their overseas education journey.
+
+---
+
+## Features
+
+- Responsive and modern UI with Tailwind CSS and React  
+- Gradient animations and smooth transitions for engaging UX  
+- Dynamic country detail pages showcasing tuition fees, living costs, and visa document requirements  
+- Mobile-friendly navigation with dropdown menu  
+- 404 error page with animated design and quick navigation back home  
+- Clean and maintainable component-based React structure  
+
+---
+
+## Tech Stack
+
+- React  
+- React Router DOM  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+- Vite / Create React App (adjust based on your setup)  
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/agragami-consultancy.git
+   cd agragami-consultancy
